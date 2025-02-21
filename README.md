@@ -1,6 +1,6 @@
 ## Hi there and Welcome to my GitHub page! 💻
 
-[<img src="https://static.vecteezy.com/system/resources/previews/018/910/721/non_2x/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" height="100">](www.linkedin.com/in/ionut-miron)
+[<img src="https://static.vecteezy.com/system/resources/previews/018/910/721/non_2x/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" height="100">](https://www.linkedin.com/in/ionut-miron/)
 
 <!--
 **John07mrn/John07mrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
