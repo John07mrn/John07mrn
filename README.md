@@ -7,6 +7,14 @@ I have a background in **International Hospitality Management** but made a bold 
 ## 📬 Let's Connect! 
 [<img src="https://img.shields.io/badge/LinkedIn-%23007fff" width="auto" height="30" style="max-width: 100%;">](https://www.linkedin.com/in/ionut-miron/)  [<img src="https://img.shields.io/badge/freeCodeCamp-black" width="auto" height="30" style="max-width: 100%;">](https://www.freecodecamp.org/John07mrn) [<img src="https://img.shields.io/badge/Resume-important" width="auto" height="30" style="max-width: 100%;">](https://www.canva.com/design/DAGaAw7YXJA/NDGW1aw-TZ6PxcBQqmEFnQ/view?utm_content=DAGaAw7YXJA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he26283acb3)
 
+## 😁 Fun Fact  
+I can navigate the streets like a pro, thanks to my experience as a delivery driver! Now, I apply that same **route optimization** mindset to solving coding challenges 🚀.  
+
+---
+
+🔹 Thanks for stopping by! Let's build something amazing together! 
+
+
 
  
 
