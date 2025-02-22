@@ -1,6 +1,6 @@
 ## Hi there and Welcome to my GitHub page! 💻
 
-[<img src="https://img.shields.io/badge/LinkedIn-%23007fff" width="auto" height="40" style="max-width: 100%;">](https://www.linkedin.com/in/ionut-miron/)  [<img src="https://img.shields.io/badge/freeCodeCamp-black" width="auto" height="40" style="max-width: 100%;">](https://www.freecodecamp.org/John07mrn)
+[<img src="https://img.shields.io/badge/LinkedIn-%23007fff" width="auto" height="40" style="max-width: 100%;">](https://www.linkedin.com/in/ionut-miron/)  [<img src="https://img.shields.io/badge/freeCodeCamp-black" width="auto" height="40" style="max-width: 100%;">](https://www.freecodecamp.org/John07mrn) 
 
 <div align="center" dir="auto">
   <a href="https://www.linkedin.com/in/ionut-miron/" rel="nofollow">
