@@ -1,5 +1,7 @@
 ## Hi there and Welcome to my GitHub page! 💻
 
+## 📫 How to reach me:
+
 [<img src="https://img.shields.io/badge/LinkedIn-%23007fff" width="auto" height="40" style="max-width: 100%;">](https://www.linkedin.com/in/ionut-miron/)  [<img src="https://img.shields.io/badge/freeCodeCamp-black" width="auto" height="40" style="max-width: 100%;">](https://www.freecodecamp.org/John07mrn) [<img src="https://img.shields.io/badge/Resume-important" width="auto" height="40" style="max-width: 100%;">](https://www.canva.com/design/DAGaAw7YXJA/NDGW1aw-TZ6PxcBQqmEFnQ/view?utm_content=DAGaAw7YXJA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he26283acb3)
 
 
