@@ -1,5 +1,5 @@
 ## Hi there and Welcome to my GitHub page! 💻
- I'm Ionut (**John**), a motivated and adaptable **Junior Ruby Full Stack Developer** with a passion for building user-friendly, efficient, and scalable applications. My journey into tech started with a strong curiosity for coding, and now, I'm eager to contribute my skills to real-world projects.  
+ 👋 I'm Ionut (**John**), a motivated and adaptable **Junior Ruby Full Stack Developer** with a passion for building user-friendly, efficient, and scalable applications. My journey into tech started with a strong curiosity for coding, and now, I'm eager to contribute my skills to real-world projects.  
 
 
 ## 📫 How to reach me:
